@@ -1137,7 +1137,7 @@
 	{
 		position: relative;
 		margin: 0;
-		background: url('../images/header.jpg');
+		background: url('../images/header2.jpg');
 		background-size: cover;
 		background-position: center center;
 		padding: 14em 0 14em 0;
@@ -1247,7 +1247,7 @@
 							url('images/bgbl.svg') bottom left no-repeat,
 							url('images/bgbl.svg') bottom left no-repeat,
 							/*url('images/overlay.png'),*/
-							linear-gradient(45deg, #04809c, #00303b, #04809c);
+							linear-gradient(45deg, #0e1016, #434f6e, #0e1016);
 			}
 
 			.main > .content.style2
@@ -1255,7 +1255,7 @@
 				background:	url('images/bgtr.svg') top right no-repeat,
 							url('images/bgbl.svg') bottom left no-repeat,
 							/*url('images/overlay.png'),*/
-							linear-gradient(45deg, #04809c, #00303b, #04809c);
+							linear-gradient(45deg, #0e1016, #434f6e, #0e1016);
 			}
 
 			.main > .content.style3
@@ -1263,7 +1263,7 @@
 				background:	url('images/bgtr.svg') top right no-repeat,
 							url('images/bgbl.svg') bottom left no-repeat,
 							/*url('images/overlay.png'),*/
-							linear-gradient(45deg, #04809c, #00303b, #04809c);
+							linear-gradient(45deg, #0e1016, #434f6e, #0e1016);
 			}
 
 			.main > .content.style4
